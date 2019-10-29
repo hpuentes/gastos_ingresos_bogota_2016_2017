@@ -1,6 +1,6 @@
 # En Bogotá durante el año 2017, para infraestructura y personal docente en educación se hizo la mayor inversión,la mayor cantidad de ingreso efectivo proviene del pago del impuesto de industria y comercio.
 
-En Bogotá ... 
+En Bogotá ... FUT es el ...
 
 ## URL visualización: https://observablehq.com/@hpuentes/distribucion-de-ingreso-efectivo-y-pagos-realizados-duran
 
@@ -53,7 +53,7 @@ Tree
 * Luminance: Por la profundidad dentro del arbol.
 * Área 2D.
 * Select: Presenta detalles de cada cuadro de ingreso o gasto, indica path y valor.
-* Change: 
+* Change: Al seleccionar año se cambia la distribución de ingreso o gasto al año correspondiente. Al seleccionar ingreso o tipo de gasto se actualiza la visualización a la distribución del elemento seleccionado.
 
 ## Distribución del gasto y del ingreso efectivo para la ciudad de Bogotá durante los años 2016 y 2017
 
