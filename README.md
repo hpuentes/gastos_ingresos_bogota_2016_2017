@@ -28,7 +28,6 @@ https://github.com/hpuentes/gastos_ingresos_bogota_2016_2017/tree/master/FilterF
 * FUT Gastos de inversión: https://www.datos.gov.co/Hacienda-y-Cr-dito-P-blico/FUT-GASTOS-DE-INVERSION/g3mg-je4i
 * FUT Gastos de funcionamiento: https://www.datos.gov.co/Hacienda-y-Cr-dito-P-blico/FUT-GASTOS-DE-FUNCIONAMIENTO/jfaj-6c7i
 
-
 ## Tarea Principal.
 T1. Presentar la distribución de ingresos o gastos de Bogotá. 
 (Present)-(Distribution)
@@ -74,9 +73,9 @@ Tree
 * Partition: Representa división de ingresos o gastos.
 
 ## Distribución del gasto y del ingreso efectivo para la ciudad de Bogotá durante los años 2016 y 2017
+Se debe seleccionar el año 2016 o 2017 sobre el cual se desea presentar la vizualización, adicional se debe seleccionar la fuente de datos, dentro de lo cual se encuentra las opciones: ingreso efectivo, pagos por gastos de inversión y pagos por gastos de funcionamiento.
 
 ![Gastos e ingresos en bogota 2016-2017](https://github.com/hpuentes/gastos_ingresos_bogota_2016_2017/blob/master/ingreso-gasto.png?raw=true)
-
 
 ## Conclusiones 
 
