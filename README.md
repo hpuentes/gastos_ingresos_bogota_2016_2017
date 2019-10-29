@@ -6,6 +6,8 @@ El registro FUT es un mecanismo para que los Departamentos, Distritos y Municipi
 
 ### Objetivo 
 
+El principal objetivo de este trabajo, es la presentación de una visualización interactiva, dentro de la cual se pueda presentar de una forma clara, como es la distribución del monto por las diferentes fuentes de ingreso y por concepto de gasto bien sea de inversión o de funcionamiento en la ciudad de Bogotá durante los años 2016 y 2017.
+
 ### Alcance
 
 ## Autor
