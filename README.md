@@ -19,3 +19,31 @@ Combining code from Mike Bostock block https://observablehq.com/@d3/nested-treem
 * FUT Ingresos: https://www.datos.gov.co/Hacienda-y-Cr-dito-P-blico/FUT-INGRESOS/u2vs-ghyn
 * FUT Gastos de inversión: https://www.datos.gov.co/Hacienda-y-Cr-dito-P-blico/FUT-GASTOS-DE-INVERSION/g3mg-je4i
 * FUT Gastos de funcionamiento: https://www.datos.gov.co/Hacienda-y-Cr-dito-P-blico/FUT-GASTOS-DE-FUNCIONAMIENTO/jfaj-6c7i
+
+## Tarea Principal.
+
+
+### Tareas secundarias.
+
+
+## WHAT?
+### Attributes: 
+
+
+### Dataset:
+
+
+## WHY?
+
+
+## HOW?
+
+## Distribución del gasto y del ingreso efectivo para la ciudad de Bogotá durante los años 2016 y 2017
+
+![Gastos e ingresos en bogota 2016-2017](https://github.com/hpuentes/gastos_ingresos_bogota_2016_2017/blob/master/ingreso-gasto.png?raw=true)
+
+
+## Conclusiones 
+
+
+## Tecnologías usadas
