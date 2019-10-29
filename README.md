@@ -10,7 +10,7 @@ El principal objetivo de este trabajo, es la presentación de una visualización
 
 ### Alcance
 
-La visualización presenta una vista interactiva de la distribución.
+La visualización presenta una vista interactiva de la distribución del monto por las diferentes fuentes de ingreso y por concepto de gasto bien sea de inversión o de funcionamiento en la ciudad de Bogotá durante los años 2016 y 2017
 
 ## Autor
 Hermes Puentes Navarro https://www.linkedin.com/in/hermes-puentes-navarro-1898b2b3/
