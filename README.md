@@ -43,7 +43,9 @@ https://github.com/hpuentes/gastos_ingresos_bogota_2016_2017/tree/master/FilterF
 Tree
 
 ## WHY?
-
+1. Presentar la distribución de ingresos o gastos de Bogotá. (Present)-(Distribution)
+2. Indentificar los conceptos de ingreso o gasto de mayor cuantia. (Identify)-(Outliers)
+3. 
 
 ## HOW?
 * Idiom: Treemap.
