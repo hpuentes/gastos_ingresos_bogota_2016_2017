@@ -52,8 +52,11 @@ Tree
 * HUE: Naranja
 * Luminance: Por la profundidad dentro del arbol.
 * Área 2D.
+* Order: Ordena por nivel de profundidad en el arbol.
+* Separate: Separa los grupos de ingreso y gasto.
 * Select: Presenta detalles de cada cuadro de ingreso o gasto, indica path y valor.
 * Change: Al seleccionar año se cambia la distribución de ingreso o gasto al año correspondiente. Al seleccionar ingreso o tipo de gasto se actualiza la visualización a la distribución del elemento seleccionado.
+* Partition: Representa división de ingresos o gastos.
 
 ## Distribución del gasto y del ingreso efectivo para la ciudad de Bogotá durante los años 2016 y 2017
 
