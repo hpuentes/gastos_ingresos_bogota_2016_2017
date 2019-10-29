@@ -1,6 +1,6 @@
 # En Bogotá durante el año 2017, para infraestructura y personal docente en educación se hizo la mayor inversión,la mayor cantidad de ingreso efectivo proviene del pago del impuesto de industria y comercio.
 
-En Bogotá ... FUT es el ...
+El registro FUT es un mecanismo para que los Departamentos, Distritos y Municipios reporten datos oficiales básicos al Gobierno Nacional. Por medio de la plataforma de datos abiertos, la contaduría General de la Nacion ha publicado su reporte FUT respecto de ingresos, pagos de inversión y gastos operativos para todas las ciudades y municipios de Colombia durante los años 2016 y 2017. El presente trabajo se centra en el reporte ingresos y gastos para la ciudad de Bogotá durante el año de 2016 y 2017.
 
 ## URL visualización: https://observablehq.com/@hpuentes/distribucion-de-ingreso-efectivo-y-pagos-realizados-duran
 
