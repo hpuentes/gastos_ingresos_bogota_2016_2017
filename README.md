@@ -79,12 +79,24 @@ Se debe seleccionar el año 2016 o 2017 sobre el cual se desea presentar la vizu
 
 ## Conclusiones 
 Para el año 2016, los dos principales conceptos de ingreso efectivo por su cuantia son los siguientes:
-1. Impuesto de industria y comercio: $3.5 billones.
-2. Impuesto predial unificado: $2.4 billones.
+1. Impuesto de industria y comercio: $3.4 billones.
+2. Impuesto predial unificado: $2.2 billones.
 
-Para el año 2016, los dos principales conceptos de gastos por inversión por su cuantia son los siguientes: 
-1. Personal docente en educación: $1.2 billones
+... Para el año 2017:
+1. Impuesto de industria y comercio: $3.5 billones (0.1 billones más que el 2016).
+2. Impuesto predial unificado: $2.4 billones. (0.2 billones más que el 2016).
+
+Para el año 2016, los dos principales conceptos de pagos por gastos por inversión por su cuantia son los siguientes: 
+1. Personal docente en educación: $1 billón
 2. Afiliación al regimen subsidiado: $1 billón
+
+... Para el año 2017.
+1. Personal docente en educación: $1,2 billones (0.2 billones más que el 2016)
+2. Construcción, mejoramiento y mantenimiento de infraestructura física: $1,88 billones (Aumento superior al 100% respecto al 2016)
+
+Para el año 2016, los dos principales conceptos de pagos por gastos de funcionamiento por su cuantia son los siguientes:
+1. Mesadas pensionales: $0.63 billones
+2. Servicios personales asociados a la nómina: $0.68 billones
 
 ## Tecnologías usadas
 * D3@5
