@@ -26,10 +26,18 @@ https://github.com/hpuentes/gastos_ingresos_bogota_2016_2017/tree/master/FilterF
 
 
 ## Tarea Principal.
-
+T1. Presentar la distribución de ingresos o gastos de Bogotá. 
+(Present)-(Distribution)
 
 ### Tareas secundarias.
+T2. Indentificar los conceptos de ingreso o gasto de mayor cuantia. 
+(Identify)-(Outliers)
 
+T3. Presentar los conceptos y subconceptos de ingreso y gasto distribuido por nivel de detalle. 
+(Present)-(Dependency)
+
+T4. Descubrir el valor total de ingreso y gastos en cada nivel de detalle por concepto y subconceptos. 
+(Lookup)-(Distribution)
 
 ## WHAT?
 ### Attributes: 
@@ -45,7 +53,8 @@ Tree
 ## WHY?
 1. Presentar la distribución de ingresos o gastos de Bogotá. (Present)-(Distribution)
 2. Indentificar los conceptos de ingreso o gasto de mayor cuantia. (Identify)-(Outliers)
-3. 
+3. Presentar los conceptos y subconceptos de ingreso y gasto distribuido por nivel de detalle. (Present)-(Dependency)
+4. Descubrir el valor total de ingreso y gastos en cada nivel de detalle por concepto y subconceptos. (Lookup)-(Distribution)
 
 ## HOW?
 * Idiom: Treemap.
