@@ -78,7 +78,13 @@ Se debe seleccionar el año 2016 o 2017 sobre el cual se desea presentar la vizu
 ![Gastos e ingresos en bogota 2016-2017](https://github.com/hpuentes/gastos_ingresos_bogota_2016_2017/blob/master/ingreso-gasto.png?raw=true)
 
 ## Conclusiones 
+Para el año 2016, los dos principales conceptos de ingreso efectivo por su cuantia son los siguientes:
+1. Impuesto de industria y comercio: $3.5 billones.
+2. Impuesto predial unificado: $2.4 billones.
 
+Para el año 2016, los dos principales conceptos de gastos por inversión por su cuantia son los siguientes: 
+1. Personal docente en educación: $1.2 billones
+2. Afiliación al regimen subsidiado: $1 billón
 
 ## Tecnologías usadas
 * D3@5
