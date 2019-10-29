@@ -47,3 +47,7 @@ Combining code from Mike Bostock block https://observablehq.com/@d3/nested-treem
 
 
 ## Tecnologías usadas
+* D3@5
+* Javascript
+* Despliegue en el sitio observablehq.
+* Apache Spark.
